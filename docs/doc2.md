@@ -1,6 +1,7 @@
 ---
 id: doc2
 title: index
+slug: /
 ---
 
 # Getting Started with Buttons
