@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Button: ['doc2', 'mdx'],
+    Button: ['doc1','doc2', 'mdx'],
     Link: ['doc3'],
     Card: ['card', 'simcard','listcard','complexcard']
   },
