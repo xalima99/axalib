@@ -5,7 +5,7 @@ sidebar_label: index
 slug: /
 ---
 
-Go to our [Repo](https://github.github.com/gfm/) to pull the component's directory.
+Go to our [Repo](https://github.com/xalima99/axalib) to pull the component's directory.
 
 
 Some depedencies are required for components to work properly.
