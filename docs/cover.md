@@ -29,7 +29,7 @@ Using a cover can add a strong element to your mobile interface, but you should 
 
 ### Usage
 
-To achieve a Cover, we provide you a _Cover_ API. this API is used to display both Videos and Images. 
+To achieve a Cover, we provide you a _Cover_ API. this is an API that is used to display both Videos and Images. 
 
 ````javascript
 const MyComponent = () => (
