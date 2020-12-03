@@ -2,6 +2,13 @@
 id: doc2
 title: Button
 ---
+# Getting Started with Buttons
+
+A button is component that the user can press to trigger an action. All Buttons have normal, active and disabled state.
+
+_Normal : Normal State of Button
+Active : When the Button is pressed
+Disabled: When the Button is disabled_
 
 ## Primary Button
 Used to indicate the main action of a page/form which going with the user’s decision on making this action.
