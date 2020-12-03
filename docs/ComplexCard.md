@@ -32,6 +32,22 @@ const MyComponent = () => (
 
 ````
 
+# Complex Cards List
+
+To achieve a complex card List, we provide you a _BaseCard_ wich is a basic card. You can provide the props you want to display as it shape may vary following your need. The all you have to do is to use it in your Flatlist or map it.
+
+
+````javascript
+const MyComponent = () => (
+  <FlatList data={yourData} keyExtractor={KeyExtractor} renderItem={({item}) => (
+    <BaseCard title="Complex Card" subtitle="I am a Complex Card"  onPress={() => console.log('Pressed')}>
+    The text do display inside the Card goes here !
+    </BaseCard>
+  )} />
+);
+
+````
+
 
 ## Props 
 
